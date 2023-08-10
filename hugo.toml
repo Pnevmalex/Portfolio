@@ -32,7 +32,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "Alexandros Pnevmonidis"
   email = "pnevmalex@protonmail.com"
-  link = ""
+  link = "https://pnevmalex.dev/"
 
 [params]
   # site default theme ["auto", "light", "dark"]
