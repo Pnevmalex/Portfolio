@@ -240,11 +240,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       fullscreen = true
     # Social share links in post page
     [params.page.share]
-      enable = false
+      enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
-      Reddit = false
+      Linkedin = true
+      Reddit = true
     # Comment config
     [params.page.comment]
       enable = false
