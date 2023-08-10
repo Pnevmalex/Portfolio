@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://pnevmalex.dev/"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 # website title
@@ -17,11 +17,11 @@ googleAnalytics = ""
 copyright = ""
 
 # whether to use robots.txt
-enableRobotsTXT = true
+enableRobotsTXT = false
 # whether to use git commit log
-enableGitInfo = false
+enableGitInfo = true
 # whether to use emoji code
-enableEmoji = true
+enableEmoji = false
 
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
@@ -38,7 +38,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/Pnevmalex/Pnevmalex"
+  gitRepo = "https://github.com/Pnevmalex/Portfolio"
   # which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
@@ -502,7 +502,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/Pnevmalex"
+        url = "https://github.com/Pnevmalex/Portfolio"
         title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
