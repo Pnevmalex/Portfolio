@@ -12,9 +12,9 @@ languageName = "English"
 # default amount of posts in each pages
 paginate = 15
 # google analytics code [UA-XXXXXXXX-X]
-googleAnalytics = ""
+#googleAnalytics = ""
 # copyright description used only for seo schema
-copyright = ""
+#copyright = ""
 
 # whether to use robots.txt
 enableRobotsTXT = false
@@ -418,9 +418,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Options to make output .md files
 
-[mediaTypes]
-  [mediaTypes."text/plain"]
-    suffixes = ["md"]
+# [mediaTypes]
+#   [mediaTypes."text/plain"]
+#     suffixes = ["md"]
 
 # Options to make output .md files
 
