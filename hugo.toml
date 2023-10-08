@@ -152,7 +152,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       # URL of avatar shown in home page
-      avatarURL = "https://res.cloudinary.com/dlvqcfzwu/image/upload/v1696805904/avatar.png"
+      avatarURL = "/images/avatar.png"
       # title shown in home page (HTML format is supported)
       title = "Alexandros Pnevmonidis"
       # subtitle shown in home page (HTML format is supported)
@@ -278,7 +278,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Publisher info
       [params.page.seo.publisher]
         name = "Alexandros Pnevmonidis"
-        logoUrl = "https://res.cloudinary.com/dlvqcfzwu/image/upload/v1696805904/avatar.png"
+        logoUrl = "/images/avatar.png"
 
   # TypeIt config
   [params.typeit]
@@ -534,8 +534,3 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         Twitter = "Pnevmalex"
         Instagram = "Pnevmalex"
         Email = "pnevmalex@protonmail.com"
-        
-
-  
-
-
