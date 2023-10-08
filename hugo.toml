@@ -156,13 +156,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # title shown in home page (HTML format is supported)
       title = "Alexandros Pnevmonidis"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "A Developer in making..."
+      subtitle = "A Developer in making"
       # whether to use typeit animation for subtitle  
       typeit = true
       # whether to show social links     
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = "Testttt"
+      disclaimer = ""
     # Home page posts
     [params.home.posts]
       enable = false
@@ -524,10 +524,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           enable = true
           avatarURL = "/images/avatar.png"
           title = "Alexandros Pnevmonidis"
-          subtitle = "A Developer in making."
+          subtitle = "Everything should be made as simple as possible, but not simpler."
           typeit = true
           social = true
-          disclaimer = "Everything should be made as simple as possible, but not simpler."
+          disclaimer = ""
       [languages.en.params.social]
         GitHub = "Pnevmalex"
         Linkedin = "Pnevmalex"
