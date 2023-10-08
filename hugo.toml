@@ -534,8 +534,3 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         Twitter = "Pnevmalex"
         Instagram = "Pnevmalex"
         Email = "pnevmalex@protonmail.com"
-        
-
-  
-
-
